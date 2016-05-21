@@ -308,6 +308,9 @@ input[type="button"][disabled]:active {
 #b_wl0_enable {
   margin-right: 4px;
 }
+#b_wl1_enable {
+  margin-right: 4px;
+}
 #afu-upgrade-button {
   height: auto !important;
   background-color: #27ae60;
